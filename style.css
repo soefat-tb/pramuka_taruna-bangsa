@@ -122,6 +122,20 @@ header a:hover {
   overflow: hidden;
 }
 
+#hero a.btn-outline-light {
+  border: 2px solid #fff;
+  color: #000000; /* Changed to black for "Website Resmi" button */
+  background: transparent;
+  font-weight: 600;
+}
+
+#hero a.btn-outline-light:hover {
+  background: #fff;
+  color: var(--primary);
+  border-color: var(--accent);
+  transform: translateY(-4px);
+}
+
 #hero a::after {
   content: '';
   position: absolute;

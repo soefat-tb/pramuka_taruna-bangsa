@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soefat-tb.github.io/pramuka_taruna-bangsa/sitemap.xml
